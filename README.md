@@ -11,8 +11,6 @@ My Social Media
 ## About
 If you're doing cool shit people want to know about it! They want to access it, and they want to access you. 
 
-I've thought long and hard about the importance of social media and I think it's vital that people who create stuff need to add social to their game.
-
 I've created this repo to link you to my social, but also to give you a sense of how to use it. Yes, it's a skill, and you need to get good at it - especially if you're a creator. You made it, you need to get credit for it.
 
 ### Defining Premises
