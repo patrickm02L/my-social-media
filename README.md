@@ -5,6 +5,7 @@ My Social Media
 * Access to Social Media Channels
 * Inform uses and logic of social media
 * Teach others how to use social media
+
 ===============
 
 ## About
