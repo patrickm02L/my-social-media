@@ -1,10 +1,11 @@
 My Social Media
+===============
 
-### Objective for sharing
+### Objective 
 
 * Access to Social Media Channels
 * Inform uses and logic of social media
-* Teach others how to use
+* Teach others how to use social media
 
 ===============
 
@@ -25,32 +26,32 @@ I've created this repo to link you to my social, but also to give you a sense of
 
 ===============
 
-### Github - ![patrickm02L](https://github.com/patrickm02L)
-Audience:
-Purpose: 
+### Github - [patrickm02L](https://github.com/patrickm02L)
+Audience: coders and folks who want access to my files
+Purpose: Create web applications, Open Source my work-flow, share files and content 
 Type of Content: Code and files. 
 
-### Facebook - ![patrickm02L](https://www.facebook.com/patrickm02L)
+### Facebook - [patrickm02L](https://www.facebook.com/patrickm02L)
 Audience:
 Purpose: 
 Type of Content:
 
-Instagram - ![@patrickm02L](http://instagram.com/patrickm02l)
+Instagram - [@patrickm02L](http://instagram.com/patrickm02l)
 
-LinkedIn - ![patrickm02L](https://www.linkedin.com/in/patrickm02l)
+LinkedIn - [patrickm02L](https://www.linkedin.com/in/patrickm02l)
 
-Medium - ![patrickm02L](https://medium.com/@patrickm02L)
+Medium - [patrickm02L](https://medium.com/@patrickm02L)
 
-Pinterest - ![patrickm02L](http://www.pinterest.com/patrickm02l/)
+Pinterest - [patrickm02L](http://www.pinterest.com/patrickm02l/)
 
-Twitter - ![@patrickm02L](https://twitter.com/patrickm02L)
+Twitter - [@patrickm02L](https://twitter.com/patrickm02L)
 
 Snapchat - patrickm02L no link
 
-Tumblr - ![patrickm02L.com](http://patrickm02l.com/)
+Tumblr - [patrickm02L.com](http://patrickm02l.com/)
 
-Vine - ![patrickm02L](https://vine.co/patrickm02L)
+Vine - [patrickm02L](https://vine.co/patrickm02L)
 
-YouTube - ![patrickm02L](https://www.youtube.com/user/patrickm02L)
+YouTube - [patrickm02L](https://www.youtube.com/user/patrickm02L)
 
 
