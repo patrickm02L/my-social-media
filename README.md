@@ -27,31 +27,70 @@ I've created this repo to link you to my social, but also to give you a sense of
 ===============
 
 ### Github - [patrickm02L](https://github.com/patrickm02L)
-Audience: coders and folks who want access to my files
-Purpose: Create web applications, Open Source my work-flow, share files and content 
-Type of Content: Code and files. 
+* Audience: Coders and folks who want access to my files
+* Purpose: Create web applications, Open Source my work-flow, share files and content 
+* Type of Content: Code and files. 
+* Insights: 
 
 ### Facebook - [patrickm02L](https://www.facebook.com/patrickm02L)
-Audience:
-Purpose: 
-Type of Content:
+* Audience: Semi-private. Family, friends, college crowd, local news
+* Purpose: Keep upto date with folks on a more personal level. 
+* Type of Content: Post my stuff, friends stuff, local events, and info about orgs I support.
+* Insights: This is the only private social media I have. I have a public setting, so folks can follow, but I mostly only converse with people I know In Real Life. 
 
-Instagram - [@patrickm02L](http://instagram.com/patrickm02l)
+### Instagram - [@patrickm02L](http://instagram.com/patrickm02l)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-LinkedIn - [patrickm02L](https://www.linkedin.com/in/patrickm02l)
+### LinkedIn - [patrickm02L](https://www.linkedin.com/in/patrickm02l)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-Medium - [patrickm02L](https://medium.com/@patrickm02L)
+### Medium - [patrickm02L](https://medium.com/@patrickm02L)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-Pinterest - [patrickm02L](http://www.pinterest.com/patrickm02l/)
+### Pinterest - [patrickm02L](http://www.pinterest.com/patrickm02l/)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-Twitter - [@patrickm02L](https://twitter.com/patrickm02L)
+### Twitter - [@patrickm02L](https://twitter.com/patrickm02L)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-Snapchat - patrickm02L no link
+### Snapchat - patrickm02L no link
+* Audience: Public. Everyone.
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-Tumblr - [patrickm02L.com](http://patrickm02l.com/)
+### Tumblr - [patrickm02L.com](http://patrickm02l.com/)
+* Audience: Public. Everyone.
+* Purpose: BIG DEAL! This is my repository of all the digital content I create. 
+* Type of Content: All types of digital content - Audio, Data, Flyers, Gifs, Illustrations, Images, Maps, Read, Talks, and Video.
+* Insights: I decided that websites are too limiting because you don't get to show all the inbetween stuff that happens while you're creating. I shifted my thinking to include all the digital content I create as a project. After doing this for over a year, I'm amazed to see how the things that I'm creating are all inter-related. I guess you could say it's all on BIG project! Also, after creating content, I like to go back and group it into collections, which I post on LinkedIn or now on my GitHub pages that I'm learning to use. 
 
-Vine - [patrickm02L](https://vine.co/patrickm02L)
+### Vine - [patrickm02L](https://vine.co/patrickm02L)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
 
-YouTube - [patrickm02L](https://www.youtube.com/user/patrickm02L)
+### YouTube - [patrickm02L](https://www.youtube.com/user/patrickm02L)
+* Audience: Public. 
+* Purpose: 
+* Type of Content:
+* Insights: 
+
 
 
