@@ -1,16 +1,14 @@
 My Social Media
 ===============
-
 ### Objective 
 
 * Access to Social Media Channels
 * Inform uses and logic of social media
 * Teach others how to use social media
-
 ===============
 
 ## About
-If you're doing cool shit people want to know about it, they want to access it and they want to access you. 
+If you're doing cool shit people want to know about it! They want to access it, and they want to access you. 
 
 I've thought long and hard about the importance of social media and I think it's vital that people who create stuff need to add social to their game.
 
@@ -65,18 +63,18 @@ I've created this repo to link you to my social, but also to give you a sense of
 
 ### Twitter - [@patrickm02L](https://twitter.com/patrickm02L)
 * Audience: Public. 
-* Purpose: 
-* Type of Content:
-* Insights: 
+* Purpose: Sharing the content I create, sharing other people's stuff that inspires me, learning about tech, design, & urbanism worlds, reaching out and connecting with folks. 
+* Type of Content: Audio, Gifs, Images, Text, Video
+* Insights: Twitter is my curating platform. It's a smorgasbord of everything I do, as well as things/folks/discplines I'm interacting with. 
 
-### Snapchat - patrickm02L no link
+### Snapchat - patrickm02L
 * Audience: Public. Everyone.
-* Purpose: 
-* Type of Content:
-* Insights: 
+* Purpose: Short stories capturing a day-to-day record of things I'm working on. 
+* Type of Content: Images, Video
+* Insights: Behind the scenes. I love that the content is only up for 24hrs and then dissapears into the ether.
 
 ### Tumblr - [patrickm02L.com](http://patrickm02l.com/)
-* Audience: Public. Everyone.
+* Audience: Public.
 * Purpose: BIG DEAL! This is my repository of all the digital content I create. 
 * Type of Content: All types of digital content - Audio, Data, Flyers, Gifs, Illustrations, Images, Maps, Read, Talks, and Video.
 * Insights: I decided that websites are too limiting because you don't get to show all the inbetween stuff that happens while you're creating. I shifted my thinking to include all the digital content I create as a project. After doing this for over a year, I'm amazed to see how the things that I'm creating are all inter-related. I guess you could say it's all on BIG project! Also, after creating content, I like to go back and group it into collections, which I post on LinkedIn or now on my GitHub pages that I'm learning to use. 
