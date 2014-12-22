@@ -38,15 +38,15 @@ I've created this repo to link you to my social, but also to give you a sense of
 
 ### Instagram - [@patrickm02L](http://instagram.com/patrickm02l)
 * Audience: Public. 
-* Purpose: 
-* Type of Content:
-* Insights: 
+* Purpose: Everyday observations. The City, people, events, bike, my projects, travels, adventures, & secrets.
+* Type of Content: Images
+* Insights: When I first started I Instagrammed everything, about a year into it I noticed that there were some really good folks who could tell great stories with their pics. If you don't have any photography experience it's okay. Symmetry, rule of thirds, perspective. Also, get an app to add filters. I like VSCO cam. 
 
 ### LinkedIn - [patrickm02L](https://www.linkedin.com/in/patrickm02l)
 * Audience: Public. 
-* Purpose: 
-* Type of Content:
-* Insights: 
+* Purpose: Connect with folks in different industries. My only rule about this is that I have to have had an interaction with them at some point. Met at a conference, had a google hangout, something.
+* Type of Content: Audio, Images, Text, Video
+* Insights: LinkedIn a timeline of your work history. It's the new resume. So get one! The pay off is that when other people search you they can see that you're connected to someone they know. Other than that, I've found that it's a good place to post my articles, conference news, and opportunies. 
 
 ### Medium - [patrickm02L](https://medium.com/@patrickm02L)
 * Audience: Public. 
@@ -80,14 +80,14 @@ I've created this repo to link you to my social, but also to give you a sense of
 
 ### Vine - [patrickm02L](https://vine.co/patrickm02L)
 * Audience: Public. 
-* Purpose: 
-* Type of Content:
-* Insights: 
+* Purpose: Short messages on twitter, occasional observations.
+* Type of Content: Videos
+* Insights: For me Vine is hit and miss. I like that it's integrated with twitter and that the video play directly on the platform, so I'll use it to make announcements or edit a small clip from a video I'm promoting. There are people that are really popular on Vine. I'm not looking for that, I'm just using it to push folks to my other content. 
 
 ### YouTube - [patrickm02L](https://www.youtube.com/user/patrickm02L)
 * Audience: Public. 
-* Purpose: 
-* Type of Content:
+* Purpose: Story-telling, Tutorials, Promos, Story-telling, and Documentation
+* Type of Content: Video
 * Insights: 
 
 
