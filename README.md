@@ -25,10 +25,10 @@ I've created this repo to link you to my social, but also to give you a sense of
 ===============
 
 ### Github - [patrickm02L](https://github.com/patrickm02L)
-* Audience: Coders and folks who want access to my files
-* Purpose: Create web applications, Open Source my work-flow, share files and content 
-* Type of Content: Code and files. 
-* Insights: 
+* **Audience:** Coders and folks who want access to my files
+* **Purpose:** Create web applications, Open Source my work-flow, share files and content 
+* **Type of Content:** Code and files. 
+* **Insights:** 
 
 ### Facebook - [patrickm02L](https://www.facebook.com/patrickm02L)
 * Audience: Semi-private. Family, friends, college crowd, local news
