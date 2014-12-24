@@ -31,64 +31,64 @@ I've created this repo to link you to my social, but also to give you a sense of
 * **Insights:** 
 
 ### Facebook - [patrickm02L](https://www.facebook.com/patrickm02L)
-* Audience: Semi-private. Family, friends, college crowd, local news
-* Purpose: Keep upto date with folks on a more personal level. 
-* Type of Content: Post my stuff, friends stuff, local events, and info about orgs I support.
-* Insights: This is the only private social media I have. I have a public setting, so folks can follow, but I mostly only converse with people I know In Real Life. 
+* **Audience:** Semi-private. Family, friends, college crowd, local news
+* **Purpose:** Keep upto date with folks on a more personal level. 
+* **Type of Content:** Post my stuff, friends stuff, local events, and info about orgs I support.
+* **Insights:** This is the only private social media I have. I have a public setting, so folks can follow, but I mostly only converse with people I know In Real Life. 
 
 ### Instagram - [@patrickm02L](http://instagram.com/patrickm02l)
-* Audience: Public. 
-* Purpose: Everyday observations. The City, people, events, bike, my projects, travels, adventures, & secrets.
-* Type of Content: Images
-* Insights: When I first started I Instagrammed everything, about a year into it I noticed that there were some really good folks who could tell great stories with their pics. If you don't have any photography experience it's okay. Symmetry, rule of thirds, perspective. Also, get an app to add filters. I like VSCO cam. 
+* **Audience:** Public. 
+* **Purpose:** Everyday observations. The City, people, events, bike, my projects, travels, adventures, & secrets.
+* **Type of Content:** Images
+* **Insights:** When I first started I Instagrammed everything, about a year into it I noticed that there were some really good folks who could tell great stories with their pics. If you don't have any photography experience it's okay. Symmetry, rule of thirds, perspective. Also, get an app to add filters. I like VSCO cam. 
 
 ### LinkedIn - [patrickm02L](https://www.linkedin.com/in/patrickm02l)
-* Audience: Public. 
-* Purpose: Connect with folks in different industries. My only rule about this is that I have to have had an interaction with them at some point. Met at a conference, had a google hangout, something.
-* Type of Content: Audio, Images, Text, Video
-* Insights: LinkedIn a timeline of your work history. It's the new resume. So get one! The pay off is that when other people search you they can see that you're connected to someone they know. Other than that, I've found that it's a good place to post my articles, conference news, and opportunies. 
+* **Audience:** Public. 
+* **Purpose:** Connect with folks in different industries. My only rule about this is that I have to have had an interaction with them at some point. Met at a conference, had a google hangout, something.
+* **Type of Content:** Audio, Images, Text, Video
+* **Insights:** LinkedIn a timeline of your work history. It's the new resume. So get one! The pay off is that when other people search you they can see that you're connected to someone they know. Other than that, I've found that it's a good place to post my articles, conference news, and opportunies. 
 
 ### Medium - [patrickm02L](https://medium.com/@patrickm02L)
-* Audience: Public. 
-* Purpose: 
-* Type of Content:
-* Insights: 
+* **Audience:** Public. 
+* **Purpose:** Write. Share your thoughts in text format. 
+* **Type of Content:**
+* **Insights:** 
 
 ### Pinterest - [patrickm02L](http://www.pinterest.com/patrickm02l/)
-* Audience: Public. 
-* Purpose: 
-* Type of Content:
-* Insights: 
+* **Audience:** Public. 
+* **Purpose:** Collect Examples of things that I like, as a reference for my design stuff, and things that fit with my style and taste aesthetic. I also, use the Pin Boards to Showcase my Internet made content.  
+* **Type of Content:** Images, Gifs 
+* **Insights:** Between this and Tumblr I never run out of ideas or things to inspire. It's a great way to keep up on all the latest, and I definitely steal a lot of ideas from here. 
 
 ### Twitter - [@patrickm02L](https://twitter.com/patrickm02L)
-* Audience: Public. 
-* Purpose: Sharing the content I create, sharing other people's stuff that inspires me, learning about tech, design, & urbanism worlds, reaching out and connecting with folks. 
-* Type of Content: Audio, Gifs, Images, Text, Video
-* Insights: Twitter is my curating platform. It's a smorgasbord of everything I do, as well as things/folks/discplines I'm interacting with. 
+* **Audience:** Public. 
+* **Purpose:** Sharing the content I create, sharing other people's stuff that inspires me, learning about tech, design, & urbanism worlds, reaching out and connecting with folks. 
+* **Type of Content:** Audio, Gifs, Images, Text, Video
+* **Insights:** Twitter is my curating platform. It's a smorgasbord of everything I do, as well as things/folks/discplines I'm interacting with. 
 
 ### Snapchat - patrickm02L
-* Audience: Public. Everyone.
-* Purpose: Short stories capturing a day-to-day record of things I'm working on. 
-* Type of Content: Images, Video
-* Insights: Behind the scenes. I love that the content is only up for 24hrs and then dissapears into the ether.
+* **Audience:** Public. Everyone.
+* **Purpose:** Short stories capturing a day-to-day record of things I'm working on. 
+* **Type of Content:** Images, Video
+* **Insights:** Behind the scenes. I love that the content is only up for 24hrs and then dissapears into the ether.
 
 ### Tumblr - [patrickm02L.com](http://patrickm02l.com/)
-* Audience: Public.
-* Purpose: BIG DEAL! This is my repository of all the digital content I create. 
-* Type of Content: All types of digital content - Audio, Data, Flyers, Gifs, Illustrations, Images, Maps, Read, Talks, and Video.
-* Insights: I decided that websites are too limiting because you don't get to show all the inbetween stuff that happens while you're creating. I shifted my thinking to include all the digital content I create as a project. After doing this for over a year, I'm amazed to see how the things that I'm creating are all inter-related. I guess you could say it's all on BIG project! Also, after creating content, I like to go back and group it into collections, which I post on LinkedIn or now on my GitHub pages that I'm learning to use. 
+* **Audience:** Public.
+* **Purpose:** BIG DEAL! This is my repository of all the digital content I create. 
+* **Type of Content:** All types of digital content - Audio, Data, Flyers, Gifs, Illustrations, Images, Maps, Read, Talks, and Video.
+* **Insights:** I decided that websites are too limiting because you don't get to show all the inbetween stuff that happens while you're creating. I shifted my thinking to include all the digital content I create as a project. After doing this for over a year, I'm amazed to see how the things that I'm creating are all inter-related. I guess you could say it's all on BIG project! Also, after creating content, I like to go back and group it into collections, which I post on LinkedIn or now on my GitHub pages that I'm learning to use. 
 
 ### Vine - [patrickm02L](https://vine.co/patrickm02L)
-* Audience: Public. 
-* Purpose: Short messages on twitter, occasional observations.
-* Type of Content: Videos
-* Insights: For me Vine is hit and miss. I like that it's integrated with twitter and that the video play directly on the platform, so I'll use it to make announcements or edit a small clip from a video I'm promoting. There are people that are really popular on Vine. I'm not looking for that, I'm just using it to push folks to my other content. 
+* **Audience:** Public. 
+* **Purpose:** Short messages on twitter, occasional observations.
+* **Type of Content:** Videos
+* **Insights:** For me Vine is hit and miss. I like that it's integrated with twitter and that the video play directly on the platform, so I'll use it to make announcements or edit a small clip from a video I'm promoting. There are people that are really popular on Vine. I'm not looking for that, I'm just using it to push folks to my other content. 
 
 ### YouTube - [patrickm02L](https://www.youtube.com/user/patrickm02L)
-* Audience: Public. 
-* Purpose: Story-telling, Tutorials, Promos, Story-telling, and Documentation
-* Type of Content: Video
-* Insights: 
+* **Audience:** Public. 
+* **Purpose:** Story-telling, Tutorials, Promos, Story-telling, and Documentation
+* **Type of Content:** Video
+* **Insights:** To me YouTube is Google's social media platform not G+. I only see video content becoming more and more prevelant and strongly suggest everyone get their own YouTube Channel. 
 
 
 
