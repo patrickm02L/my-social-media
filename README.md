@@ -15,7 +15,7 @@ I've created this repo to link you to my social, but also to give you a sense of
 
 ### Defining Premises
 * Document Everything!
-* It doesn't matter what you do IRL, on the Internet you're a content creator. 
+* It doesn't matter what you do In Real Life (IRL), on the Internet you're a content creator. 
 * Four Basic Types of Content: Audio, Images, Text, Video
 * You don't need a website. Instead, keep a blog where you catch all the digital content you make. 
 * Treat each social media application as a collection of your 'Basic Type of Content'.
@@ -34,7 +34,7 @@ I've created this repo to link you to my social, but also to give you a sense of
 * **Audience:** Semi-private. Family, friends, college crowd, local news
 * **Purpose:** Keep upto date with folks on a more personal level. 
 * **Type of Content:** Post my stuff, friends stuff, local events, and info about orgs I support.
-* **Insights:** This is the only private social media I have. I have a public setting, so folks can follow, but I mostly only converse with people I know In Real Life (IRL). I very much like the Instagram integration and pretty much exclusively upload pics to Facebook through Instagram these days. I've thought about getting rid of Facebook a few times, but I've unfollowed all the brands from my feed, and pretty much just get new from people I know. I'm also interested to see what facebook's gonna do with Occulus Rift, Virtual Reality. Game Change! 
+* **Insights:** This is the only private social media I have. I have a public setting, so folks can follow, but I mostly only converse with people I know IRL. I very much like the Instagram integration and pretty much exclusively upload pics to Facebook through Instagram these days. I've thought about getting rid of Facebook a few times, but I've unfollowed all the brands from my feed, and pretty much just get new from people I know. I'm also interested to see what facebook's gonna do with Occulus Rift, Virtual Reality. Game Change! 
 
 ### Instagram - [@patrickm02L](http://instagram.com/patrickm02l)
 * **Audience:** Public. 
