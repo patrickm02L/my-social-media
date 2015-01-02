@@ -2,7 +2,7 @@ My Social Media
 ===============
 ### Objective 
 
-* Access to Social Media Channels
+* Access to social media channels
 * Inform uses and logic of social media
 * Teach others how to use social media
 
@@ -14,24 +14,24 @@ If you're doing cool shit people want to know about it! They want to access it, 
 I've created this repo to link you to my social, but also to give you a sense of how to use it. Yes, it's a skill, and you need to get good at it - especially if you're a creator. You made it, you need to get credit for it.
 
 ### Defining Premises
-* Document Everything!
+* Document everything!
 * It doesn't matter what you do In Real Life (IRL), on the Internet you're a content creator. 
-* Four Basic Types of Content: Audio, Images, Text, Video
+* Four Basic Types of Content: Audio, Images, Text, Video.
 * You don't need a website. Instead, keep a blog where you catch all the digital content you make. 
 * Treat each social media application as a collection of your 'Basic Type of Content'.
-* Respect the native format. I.E. Post the actual pic on the natvie platform, not a link from another app. BAD!   
-* Meet people, share, and Have fun!
+* Respect the native format. i.e. Post the actual pic on the natvie platform, not a link from another app. BAD!   
+* Meet people, share, and have fun!
 
 ===============
 
 ### Github - [patrickm02L](https://github.com/patrickm02L)
-* **Audience:** Public. Coders and folks who want access to my files
-* **Purpose:** Create web applications, Open Source my work-flow, share files and content 
+* **Audience:** Public. Coders and folks who want access to my files.
+* **Purpose:** Create web applications, open source my work-flow, share files and content. 
 * **Type of Content:** Code and files. 
 * **Insights:** My favorite part about GitHub is that everything is up for grabs. Any code, any files, anything that's on the platform is for sharing. My second favorite part is the tracking! Finally, a way to see how much actual work and time I'm spending on stuff. I know GitHub is commonplace to the coding world, but when other disciplines finally wrap their brains around it, I think we'll really get to see the power of the collaborative economy. There IS a learning curve. I suggest the GitHub YouTube Channel, and JLord's github for folks just starting out.  
 
 ### Facebook - [patrickm02L](https://www.facebook.com/patrickm02L)
-* **Audience:** Semi-private. Family, friends, college crowd, local news
+* **Audience:** Semi-private. Family, friends, college crowd, local news.
 * **Purpose:** Keep upto date with folks on a more personal level. 
 * **Type of Content:** Post my stuff, friends stuff, local events, and info about orgs I support.
 * **Insights:** This is the only private social media I have. I have a public setting, so folks can follow, but I mostly only converse with people I know IRL. I very much like the Instagram integration and pretty much exclusively upload pics to Facebook through Instagram these days. I've thought about getting rid of Facebook a few times, but I've unfollowed all the brands from my feed, and pretty much just get new from people I know. I'm also interested to see what facebook's gonna do with Occulus Rift, Virtual Reality. Game Change! 
@@ -51,12 +51,12 @@ I've created this repo to link you to my social, but also to give you a sense of
 ### Medium - [patrickm02L](https://medium.com/@patrickm02L)
 * **Audience:** Public. Everyone. 
 * **Purpose:** Write. Share your thoughts in text format. 
-* **Type of Content:** Essays, personal narratives, short stories, how tos, tracking. 
+* **Type of Content:** Essays, personal narratives, short stories, how-tos, personal tracking. 
 * **Insights:** I think Medium is going to become as mainstream as Twitter. In part, because one of the co-founders of twitter, Ev Williams, created it, but also because of how easy it is to write and publish. Medium is an elegantly formatted blog for everyone, you don't have to be a pro, and it has a social media (twitter, facebook) infrastructure built into it. I think major companies and brands will start using it as their main platform for blogging too. If you're not on Medium, get on! 
 
 ### Pinterest - [patrickm02L](http://www.pinterest.com/patrickm02l/)
 * **Audience:** Public. Everyone.
-* **Purpose:** Collect Examples of things that I like, as a reference for my design stuff, and things that fit with my style and taste aesthetic. I also, use the Pin Boards to Showcase my Digitally content.  
+* **Purpose:** Collect examples of things that I like, as a reference for my design stuff, and things that fit with my style and taste aesthetic. I also, use the pin boards to showcase my digital content.  
 * **Type of Content:** Images, Gifs 
 * **Insights:** Between this and Tumblr I've never run out of ideas or things to inspire. It's a great way to keep up on all the latest, and I definitely steal a lot of ideas from here.
 
